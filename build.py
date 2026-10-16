@@ -1,5 +1,5 @@
 import json,html,os
-SITE="RoadMed Hub";BASE="https://roadmedhub.com"
+SITE="RoadMed Hub";BASE="https://blackbucket548.github.io/roadmed-hub";PREFIX="/roadmed-hub"
 CATS={"housing":"Housing & Short-Term Stays","mileage":"Mileage & Expense Tracking","apparel":"Scrubs, Apparel & Gear","ce":"CE Credits, Licensing & Credentialing","scheduling":"Scheduling & Route Planning","staffing":"Staffing Agencies (Nurses)","crm":"CRM & Sales Tools (Reps)","finance":"Finance & Taxes for 1099 Travelers","wellness":"Wellness"}
 AUD={"nurses":"Travel Nurses","reps":"Device Sales Reps"}
 L=[dict(name=n,url=u,cat=c,desc=d,aud=a.split(",")) for n,u,c,d,a in json.load(open("listings.json"))]
@@ -8,6 +8,7 @@ CSS="""*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system
 def page(path,title,desc,body):
   url=BASE+"/"+path.replace("index.html","")
   h=f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{e(title)}</title><meta name="description" content="{e(desc)}"><link rel="canonical" href="{url}"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><link rel="stylesheet" href="/style.css"></head><body><header><div class="w" style="max-width:1100px;margin:0 auto"><a class="logo" href="/">🩺 {SITE}</a><a href="/#directory">Directory</a><a href="/sponsor/">Sponsor us</a><a href="/#newsletter">Newsletter</a></div></header>{body}<footer>{SITE} — independent directory. Listings are not endorsements; no paid placements yet. Verify details with each provider.</footer></body></html>"""
+  h=h.replace('href="/','href="'+PREFIX+'/')
   os.makedirs(os.path.dirname("dist/"+path) or "dist",exist_ok=True);open("dist/"+path,"w").write(h)
 def card(x):
   t="".join(f'<span class="tag">{AUD[a]}</span>' for a in x["aud"])
