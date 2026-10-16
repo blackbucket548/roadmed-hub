@@ -1,0 +1,27 @@
+# RoadMed Hub
+
+> RoadMed Hub is a free, independent directory of tools and services for travel nurses and medical device sales reps: housing, mileage tracking, scrubs and gear, CE and credentialing, route planning, staffing agencies, CRM, 1099 finance and taxes, and wellness. Operated by SA Lab Services LLC. Listings are not endorsements.
+
+Audience: travel nurses and medical device sales representatives who work on the road.
+
+- [Homepage and full directory](https://blackbucket548.github.io/roadmed-hub/): searchable list of all 42 listings plus FAQ
+
+## Categories
+
+- [Housing & Short-Term Stays](https://blackbucket548.github.io/roadmed-hub/category/housing/): 6 listings, e.g. Furnished Finder, Airbnb, Vrbo, Blueground, Marriott Bonvoy, Extended Stay America
+- [Mileage & Expense Tracking](https://blackbucket548.github.io/roadmed-hub/category/mileage/): 4 listings, e.g. MileIQ, Everlance, TripLog, Expensify
+- [Scrubs, Apparel & Gear](https://blackbucket548.github.io/roadmed-hub/category/apparel/): 6 listings, e.g. FIGS, Jaanuu, Cherokee Uniforms, Bombas, Hoka, Travelpro
+- [CE Credits, Licensing & Credentialing](https://blackbucket548.github.io/roadmed-hub/category/ce/): 7 listings, e.g. CEUfast, Nurse.com, NCSBN Nursys, Nurse Licensure Compact (NCSBN), AdvaMed, Vendormate (GHX), Symplr
+- [Scheduling & Route Planning](https://blackbucket548.github.io/roadmed-hub/category/scheduling/): 4 listings, e.g. Badger Maps, Route4Me, Google Maps, Calendly
+- [Staffing Agencies (Nurses)](https://blackbucket548.github.io/roadmed-hub/category/staffing/): 4 listings, e.g. Aya Healthcare, AMN Healthcare, Cross Country Healthcare, Vivian Health
+- [CRM & Sales Tools (Reps)](https://blackbucket548.github.io/roadmed-hub/category/crm/): 4 listings, e.g. Salesforce, HubSpot, Pipedrive, Definitive Healthcare
+- [Finance & Taxes for 1099 Travelers](https://blackbucket548.github.io/roadmed-hub/category/finance/): 4 listings, e.g. Stride, TurboTax, QuickBooks, Keeper
+- [Wellness](https://blackbucket548.github.io/roadmed-hub/category/wellness/): 3 listings, e.g. Headspace, Calm, ClassPass
+
+## Sponsorship
+
+- [Sponsor RoadMed Hub](https://blackbucket548.github.io/roadmed-hub/sponsor/): featured category listing ($49/mo), Top Sponsor ($149/mo), newsletter mention ($99 one-time), paid via Stripe.
+
+## Optional
+
+- [Sitemap](https://blackbucket548.github.io/roadmed-hub/sitemap.xml)
