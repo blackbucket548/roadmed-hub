@@ -4,18 +4,18 @@
 
 Audience: travel nurses and medical device sales representatives who work on the road.
 
-- [Homepage and full directory](https://blackbucket548.github.io/roadmed-hub/): searchable list of all 47 listings plus FAQ
+- [Homepage and full directory](https://blackbucket548.github.io/roadmed-hub/): searchable list of all 52 listings plus FAQ
 
 ## Categories
 
 - [Housing & Short-Term Stays](https://blackbucket548.github.io/roadmed-hub/category/housing/): 6 listings, e.g. Furnished Finder, Airbnb, Vrbo, Blueground, Marriott Bonvoy, Extended Stay America
 - [Mileage & Expense Tracking](https://blackbucket548.github.io/roadmed-hub/category/mileage/): 5 listings, e.g. MileIQ, Everlance, TripLog, Expensify, GasBuddy
 - [Scrubs, Apparel & Gear](https://blackbucket548.github.io/roadmed-hub/category/apparel/): 6 listings, e.g. FIGS, Jaanuu, Cherokee Uniforms, Bombas, Hoka, Travelpro
-- [CE Credits, Licensing & Credentialing](https://blackbucket548.github.io/roadmed-hub/category/ce/): 8 listings, e.g. CEUfast, Nurse.com, NCSBN Nursys, Nurse Licensure Compact (NCSBN), AdvaMed, Vendormate (GHX), Symplr, IntelliCentrics
-- [Scheduling & Route Planning](https://blackbucket548.github.io/roadmed-hub/category/scheduling/): 5 listings, e.g. Badger Maps, Route4Me, Google Maps, Calendly, TSA PreCheck
-- [Staffing Agencies (Nurses)](https://blackbucket548.github.io/roadmed-hub/category/staffing/): 5 listings, e.g. Aya Healthcare, AMN Healthcare, Cross Country Healthcare, Vivian Health, MedReps
+- [CE Credits, Licensing & Credentialing](https://blackbucket548.github.io/roadmed-hub/category/ce/): 10 listings, e.g. CEUfast, Nurse.com, NCSBN Nursys, Nurse Licensure Compact (NCSBN), AdvaMed, Vendormate (GHX), Symplr, IntelliCentrics, FDA 510(k) Database, Medicare Care Compare
+- [Scheduling & Route Planning](https://blackbucket548.github.io/roadmed-hub/category/scheduling/): 6 listings, e.g. Badger Maps, Route4Me, Google Maps, Calendly, TSA PreCheck, Global Entry
+- [Staffing Agencies (Nurses)](https://blackbucket548.github.io/roadmed-hub/category/staffing/): 6 listings, e.g. Aya Healthcare, AMN Healthcare, Cross Country Healthcare, Vivian Health, MedReps, Nomad Health
 - [CRM & Sales Tools (Reps)](https://blackbucket548.github.io/roadmed-hub/category/crm/): 4 listings, e.g. Salesforce, HubSpot, Pipedrive, Definitive Healthcare
-- [Finance & Taxes for 1099 Travelers](https://blackbucket548.github.io/roadmed-hub/category/finance/): 5 listings, e.g. Stride, TurboTax, QuickBooks, Keeper, GSA Per Diem Rates
+- [Finance & Taxes for 1099 Travelers](https://blackbucket548.github.io/roadmed-hub/category/finance/): 6 listings, e.g. Stride, TurboTax, QuickBooks, Keeper, GSA Per Diem Rates, IRS Standard Mileage Rates
 - [Wellness](https://blackbucket548.github.io/roadmed-hub/category/wellness/): 3 listings, e.g. Headspace, Calm, ClassPass
 
 ## Sponsorship
